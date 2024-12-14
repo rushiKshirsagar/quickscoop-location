@@ -1,0 +1,1 @@
+# quickscoop-location
